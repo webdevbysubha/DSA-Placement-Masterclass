@@ -24,3 +24,7 @@ i=1
 while i<=10:
     print(i)
     i+=1
+
+for i in range(1,6):
+    for j in range(5):
+        print(i,j)
