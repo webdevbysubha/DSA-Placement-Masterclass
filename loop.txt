@@ -30,3 +30,5 @@ iii) Updation
 
 continue --> skips current iteration
 break --> terminates the current loop
+
+Reverse Slicing [:: -1] -starts from -1--> and count from the end of the string
