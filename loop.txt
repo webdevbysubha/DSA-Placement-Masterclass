@@ -1,0 +1,32 @@
+1) for loop --> no. of iteration is known
+2) while loop --> no. of iteration is unknown
+
+SEQUENCE --> string, list, tuple, range()
+
+string enclosed within '' or "" or """ """ or ''' '''
+    - ordered
+    - indexing
+    - default starting index 0
+    - default ending index length of the string
+    - slicing 
+    - immutable
+
+range() --> it generates sequence of numbers
+range(start,stop/end,step)
+start and stepsize is optional.
+default start is 0
+default step size is 1 for (+ve) indexing
+default step size is -1 for (-ve) indexing
+For (+ve) direction stop value is (end-1)
+For (-ve) direction stop value is (end+1)
+
+
+for variable_name in sequence:
+    block of code
+
+i) Initialization
+ii) Condition
+iii) Updation
+
+continue --> skips current iteration
+break --> terminates the current loop
