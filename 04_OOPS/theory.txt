@@ -1,0 +1,18 @@
+POP vs OOP
+POP --> PROCEDURAL ORIENTED PROGRAMMING
+OOP --> Object Oriented PROGRAMMING
+
+class & Object
+attributes & behavior
+constructor
+self
+
+Attributes --> data, variable
+Behavior --> method, function
+
+constructor --> It is special method which is called automatically when an object is created.
+
+__init__() --> constructor
+Developer Community --> Dunder Init
+
+self --> self refers to the current object
