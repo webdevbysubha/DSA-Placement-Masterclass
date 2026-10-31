@@ -16,3 +16,25 @@ __init__() --> constructor
 Developer Community --> Dunder Init
 
 self --> self refers to the current object
+
+# 4 Pillars of OOP
+1) Encapsulation --> Security
+2) Abstraction --> Scalable
+3) Inheritance --> Reusability
+4) Polymorphism --> Flexible
+
+Encapsulation : It is the process of binding data and methods into a single unit(i.e class) and preventing the direct access of a data from outside of the class.
+
+private data --> __variable_name (use double under score before the variable_name)
+
+-------------------------------------------------------------------------
+
+Abstraction: It is the method of hiding the implementation details while showing the necessary information to the user.
+e.g --> ATM m/c
+we don't know how bank server works, how verification works etc in case of ATM m/c.
+
+from abc import ABC,abstractmethod
+@abstractmethod
+
+-------------------------------------------------------------------------
+
